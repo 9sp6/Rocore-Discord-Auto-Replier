@@ -1,5 +1,7 @@
 # Rocore-Discord-Auto-Replier
 
+![Display](https://media.discordapp.net/attachments/1309729241629462528/1335923603191107656/image_3.png?ex=67a1ef4f&is=67a09dcf&hm=f74ac6cce9b68d8ab9085ff0452847651d80411958d563520a4c7d5fcaf067ab&=&format=webp&quality=lossless&width=981&height=262)
+
 **Rocore-Discord-Auto-Replier** is an advanced Discord bot designed to automatically reply to messages in your server, providing custom and pre-configured responses based on user input. It's a perfect tool for automating replies, handling server commands, and creating a more interactive experience for your Discord community. This bot is easily configurable and can be expanded to suit a variety of needs, including automated moderation, custom greetings, and more.
 
 ---
